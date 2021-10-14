@@ -6,7 +6,7 @@
 
   font-family: tofino-personal;
 
-  src: url('../fonts/Tofino/TofinoProPersonal-Medium.otf');
+  src: url('../fonts/Tofino/TofinoProPersonal-Medium.otf') format('opentype');
 
 }
 
@@ -16,7 +16,7 @@
 
   font-family: tofino-personal-regular;
 
-  src: url('../fonts/Tofino/TofinoProPersonal-Regular.otf');
+  src: url('../fonts/Tofino/TofinoProPersonal-Regular.otf') format('opentype');
 
 }
 
@@ -26,7 +26,7 @@
 
   font-family: tofino-personal-light;
 
-  src: url('../fonts/Tofino/TofinoProPersonal-Light.otf');
+  src: url('../fonts/Tofino/TofinoProPersonal-Light.otf') format('opentype');
 
 }
 
@@ -36,7 +36,7 @@
 
   font-family: tofino-personal-semi-bold;
 
-  src: url('../fonts/Tofino/TofinoProPersonal-Semibold.otf');
+  src: url('../fonts/Tofino/TofinoProPersonal-Semibold.otf') format('opentype');
 
 }
 
@@ -46,7 +46,7 @@
 
   font-family: tofino-book-personal;
 
-  src: url('../fonts/Tofino/TofinoProPersonal-Book.otf');
+  src: url('../fonts/Tofino/TofinoProPersonal-Book.otf') format('opentype');
 
 }
 
