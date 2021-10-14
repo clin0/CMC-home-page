@@ -4,7 +4,7 @@
 
 @font-face {
 
-  font-family: tofino-personal;
+  font-family: 'tofino-personal';
 
   src: url('../fonts/Tofino/TofinoProPersonal-Medium.otf') format('opentype');
 
@@ -14,7 +14,7 @@
 
 @font-face {
 
-  font-family: tofino-personal-regular;
+  font-family: 'tofino-personal-regular';
 
   src: url('../fonts/Tofino/TofinoProPersonal-Regular.otf') format('opentype');
 
@@ -24,7 +24,7 @@
 
 @font-face {
 
-  font-family: tofino-personal-light;
+  font-family: 'tofino-personal-light';
 
   src: url('../fonts/Tofino/TofinoProPersonal-Light.otf') format('opentype');
 
@@ -34,7 +34,7 @@
 
 @font-face {
 
-  font-family: tofino-personal-semi-bold;
+  font-family: 'tofino-personal-semi-bold';
 
   src: url('../fonts/Tofino/TofinoProPersonal-Semibold.otf') format('opentype');
 
@@ -44,7 +44,7 @@
 
 @font-face {
 
-  font-family: tofino-book-personal;
+  font-family: 'tofino-book-personal';
 
   src: url('../fonts/Tofino/TofinoProPersonal-Book.otf') format('opentype');
 
@@ -58,7 +58,7 @@
 
 .cm_font_tofino_personal {
 
-  font-family: tofino-personal;
+  font-family: 'tofino-personal';
 
 }
 
@@ -66,7 +66,7 @@
 
 .cm_font_tofino_personal_regular {
 
-  font-family: tofino-personal-regular;
+  font-family: 'tofino-personal-regular';
 
   /* margin-left: 30px; */
 
@@ -76,7 +76,7 @@
 
 .cm_font_tofino_light {
 
-  font-family: tofino-personal-light;
+  font-family: 'tofino-personal-light';
 
 }
 
@@ -84,7 +84,7 @@
 
 .cm_font_tofino_semi_bold {
 
-  font-family: tofino-personal-semi-bold;
+  font-family: 'tofino-personal-semi-bold';
 
 }
 
@@ -92,13 +92,13 @@
 
 .cm_font_book_personal {
 
-  font-family: tofino-book-personal;
+  font-family: 'tofino-book-personal';
 
 }
 
 
 
-/* Backgorund Colour */
+/* Background Colour */
 
 
 
@@ -354,7 +354,7 @@ p.cm_font_tofino_personal_regular.english {
 
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
 
-  font-family: Tofino-Personal;
+  font-family: 'tofino-personal';
 
 }
 
@@ -548,7 +548,7 @@ input#register {
 
   line-height: 24px;
 
-  font-family: tofino-personal;
+  font-family: 'tofino-personal';
 
   color: black !important;
 
@@ -656,7 +656,7 @@ h1.cm_font_tofino_personal.cm_font_bold.cm_font_black.cm_font_36.cm_font_800.let
 
   margin: 98px 63.5px 85px 19.5px;
 
-  font-family: Tofino-Personal;
+  font-family: 'tofino-personal';
 
   font-size: 30px;
 
@@ -872,7 +872,7 @@ li#countDownSeconds1 {
 
   color: #f18b0e;
 
-  /* font-family: Tofino-Personal; */
+  /* font-family: tofino-personal; */
 
 }
 
@@ -918,7 +918,7 @@ a.cm_preRegister {
 
   font-size: 18px;
 
-  font-family: "Tofino Medium Personal";
+  font-family: 'tofino-personal';
 
   color: #fff !important;
 
@@ -1050,7 +1050,7 @@ th.cm_darknewgray.text-center.cm_font_white.cm_font_18.cm_font_tofino.tue_67 {
 
 .accordion-header {
 
-  font-family: tofino-personal-regular;
+  font-family: 'tofino-personal-regular';
 
   font-size: 18px;
 
@@ -1072,7 +1072,7 @@ th.cm_darknewgray.text-center.cm_font_white.cm_font_18.cm_font_tofino.tue_67 {
 
   padding: 30px 20px;
 
-  font-family: tofino-personal-regular;
+  font-family: 'tofino-personal-regular';
 
   font-size: 18px;
 
@@ -1302,7 +1302,7 @@ button:focus:not(:focus-visible) {
 
   font-size: 16px;
 
-  font-family: tofino-personal-regular;
+  font-family: 'tofino-personal-regular';
 
   color: #202020;
 
@@ -1618,7 +1618,7 @@ td {
 
   color: #213a53;
 
-  font-family: tofino-personal-regular;
+  font-family: 'tofino-personal-regular';
 
   text-transform: uppercase;
 
@@ -1720,7 +1720,7 @@ td {
 
   letter-spacing: -0.02px;
 
-  font-family: "Tofino Book Personal";
+  font-family: 'tofino-book-personal';
 
   font-weight: normal;
 
@@ -1738,7 +1738,7 @@ td {
 
   width: 98%;
 
-  font-family: "Tofino Medium Personal";
+  font-family: 'tofino-personal';
 
 }
 
@@ -1758,7 +1758,7 @@ td {
 
   font-size: 18px !important;
 
-  font-family: "Tofino Medium Personal";
+  font-family: 'tofino-personal';
 
 }
 
@@ -1924,7 +1924,7 @@ th.text-center.cm_font_14.cm_font_500.cm_font_black.border-bottom-0 {
 
   line-height: normal;
 
-  font-family: "Tofino Personal";
+  font-family: 'tofino-personal';
 
 }
 
@@ -1972,7 +1972,7 @@ section.registar_main {
 
   font-weight: 600;
 
-  font-family: "Tofino Personal";
+  font-family: 'tofino-personal';
 
   letter-spacing: -1px;
 
@@ -1998,7 +1998,7 @@ section.registar_main {
 
   font-size: 24px;
 
-  font-family: tofino-personal;
+  font-family: 'tofino-personal';
 
   text-transform: uppercase;
 
@@ -2036,7 +2036,7 @@ section.registar_main .row.form_body > h3 {
 
   letter-spacing: 0.5px;
 
-  font-family: tofino-personal;
+  font-family: 'tofino-personal';
 
 }
 
@@ -2214,7 +2214,7 @@ section.registar_main .row.form_body > h3 {
 
   font-weight: bold;
 
-  font-family: "Tofino Medium Personal";
+  font-family: 'tofino-personal';
 
   max-width: 200px;
 
@@ -2296,7 +2296,7 @@ footer.registar_footer .row > div:nth-child(2) p {
 
   font-size: 18px;
 
-  font-family: tofino-personal;
+  font-family: 'tofino-personal';
 
   margin-bottom: 0;
 
@@ -2522,7 +2522,7 @@ div#countdown {
 
 div#countdown ul li > span {
 
-  font-family: Tofino-Personal;
+  font-family: 'tofino-personal';
 
   font-size: 39px;
 
@@ -2578,7 +2578,7 @@ div#countdown ul li > span:after {
 
 div#countdown ul li p {
 
-  font-family: Tofino-Personal;
+  font-family: 'tofino-personal';
 
   font-size: 12.8px;
 
@@ -2736,7 +2736,7 @@ th.cm_darknewgray.text-center.cm_font_white.cm_font_18.cm_font_tofino.tue_67 {
 
   font-size: 21px;
 
-  font-family: "Tofino Narrow Book Personal";
+  font-family: 'tofino-book-personal';
 
   letter-spacing: 1px;
 
@@ -2792,7 +2792,7 @@ th.cm_darknewgray.text-center.cm_font_white.cm_font_18.cm_font_tofino.tue_67 {
 
   line-height: normal;
 
-  font-family: "Tofino Personal";
+  font-family: 'tofino-personal';
 
 }
 
@@ -2800,7 +2800,7 @@ th.cm_darknewgray.text-center.cm_font_white.cm_font_18.cm_font_tofino.tue_67 {
 
   /* font-weight: 500; */
 
-  font-family: "Tofino Medium Personal";
+  font-family: 'tofino-personal';
 
 }
 
@@ -2848,7 +2848,7 @@ th.cm_darknewgray.text-center.cm_font_white.cm_font_18.cm_font_tofino.tue_67 {
 
     margin: 0px;
 
-    font-family: Tofino-Personal;
+    font-family: 'tofino-personal';
 
     font-size: 24px;
 
