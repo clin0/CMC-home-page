@@ -600,7 +600,7 @@ button#registerBtn {
 
   padding-top: 40px;
 
-  background-image: url(../images/banner_img.png);
+  background-image: url("../images/banner_img.png");
 
   background-size: cover;
 
