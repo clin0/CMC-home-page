@@ -6,7 +6,7 @@
 
   font-family: tofino-personal;
 
-  src: url(../fonts/Tofino/TofinoProPersonal-Medium.otf);
+  src: url(/assets/fonts/Tofino/TofinoProPersonal-Medium.otf);
 
 }
 
@@ -16,7 +16,7 @@
 
   font-family: tofino-personal-regular;
 
-  src: url(../fonts/Tofino/TofinoProPersonal-Regular.otf);
+  src: url(/assets/fonts/Tofino/TofinoProPersonal-Regular.otf);
 
 }
 
@@ -26,7 +26,7 @@
 
   font-family: tofino-personal-light;
 
-  src: url(../fonts/Tofino/TofinoProPersonal-Light.otf);
+  src: url(/assets/fonts/Tofino/TofinoProPersonal-Light.otf);
 
 }
 
@@ -36,7 +36,7 @@
 
   font-family: tofino-personal-semi-bold;
 
-  src: url(../fonts/Tofino/TofinoProPersonal-Semibold.otf);
+  src: url(/assets/fonts/Tofino/TofinoProPersonal-Semibold.otf);
 
 }
 
@@ -46,7 +46,7 @@
 
   font-family: tofino-book-personal;
 
-  src: url(../fonts/Tofino/TofinoProPersonal-Book.otf);
+  src: url(/assets/fonts/Tofino/TofinoProPersonal-Book.otf);
 
 }
 
@@ -881,7 +881,7 @@ li#countDownSeconds1 {
 /* benefitSection */
 
 
-
+/*
 .benefitSection,
 
 .inPersonSection,
@@ -890,12 +890,12 @@ li#countDownSeconds1 {
 
 .scheduleSection {
 
-  /*padding: 80px 0;*/
+  padding: 80px 0;
 
-  /* border-radius: 0 !important; */
+  border-radius: 0 !important; 
 
 }
-
+*/
 
 
 a.cm_preRegister {
@@ -1325,13 +1325,13 @@ button:focus:not(:focus-visible) {
 }
 
 
-
+/*
 .cm_font_white:hover {
 
-  /* color: #213951; */
+  color: #213951; 
 
 }
-
+*/
 
 
 .form-group:hover {
@@ -2902,6 +2902,8 @@ th.cm_darknewgray.text-center.cm_font_white.cm_font_18.cm_font_tofino.tue_67 {
 
   }
 
+
+/*
   .benefitSection,
 
   .inPersonSection,
@@ -2910,11 +2912,12 @@ th.cm_darknewgray.text-center.cm_font_white.cm_font_18.cm_font_tofino.tue_67 {
 
   .scheduleSection {
 
-   /* padding: 50px 0;*/
+   /* padding: 50px 0;
 
-    /* border-radius: 0 !important; */
+    /* border-radius: 0 !important; 
 
   }
+*/
 
   #v-pills-tab-faq .nav-link {
 
