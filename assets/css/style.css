@@ -6,7 +6,7 @@
 
   font-family: tofino-personal;
 
-  src: url(/assets/fonts/Tofino/TofinoProPersonal-Medium.otf);
+  src: url('/assets/fonts/Tofino/TofinoProPersonal-Medium.otf');
 
 }
 
@@ -16,7 +16,7 @@
 
   font-family: tofino-personal-regular;
 
-  src: url(/assets/fonts/Tofino/TofinoProPersonal-Regular.otf);
+  src: url('/assets/fonts/Tofino/TofinoProPersonal-Regular.otf');
 
 }
 
@@ -26,7 +26,7 @@
 
   font-family: tofino-personal-light;
 
-  src: url(/assets/fonts/Tofino/TofinoProPersonal-Light.otf);
+  src: url('/assets/fonts/Tofino/TofinoProPersonal-Light.otf');
 
 }
 
@@ -36,7 +36,7 @@
 
   font-family: tofino-personal-semi-bold;
 
-  src: url(/assets/fonts/Tofino/TofinoProPersonal-Semibold.otf);
+  src: url('/assets/fonts/Tofino/TofinoProPersonal-Semibold.otf');
 
 }
 
@@ -46,7 +46,7 @@
 
   font-family: tofino-book-personal;
 
-  src: url(/assets/fonts/Tofino/TofinoProPersonal-Book.otf);
+  src: url('/assets/fonts/Tofino/TofinoProPersonal-Book.otf');
 
 }
 
@@ -150,7 +150,7 @@
 
   padding-top: 60px;
 
-  background-image: url(/assets/images/banner_img.png);
+  background-image: url('/assets/images/banner_img.png');
 
   background-size: cover;
 
@@ -600,7 +600,7 @@ button#registerBtn {
 
   padding-top: 40px;
 
-  background-image: url(/assets/images/banner_img.png);
+  background-image: url('/assets/images/banner_img.png');
 
   background-size: cover;
 
@@ -788,7 +788,7 @@ li#countDownSeconds1 {
 
   top: -30px;
 
-  background-image: url(/assets/images/commas.png);
+  background-image: url('/assets/images/commas.png');
 
   width: 30px;
 
@@ -1498,7 +1498,7 @@ button:focus:not(:focus-visible) {
 
 .all1 {
 
-  background-image: url(/assets/images/David\ Doong.jpg);
+  background-image: url('/assets/images/David\ Doong.jpg');
 
   background-repeat: no-repeat;
 
@@ -1516,7 +1516,7 @@ button:focus:not(:focus-visible) {
 
 .all2 {
 
-  background-image: url(/assets/images/Mc-Neal.jpg);
+  background-image: url('/assets/images/Mc-Neal.jpg');
 
   background-repeat: no-repeat;
 
@@ -1530,7 +1530,7 @@ button:focus:not(:focus-visible) {
 
 .all3 {
 
-  background-image: url(/assets/images/D-Platt.jpg);
+  background-image: url('/assets/images/D-Platt.jpg');
 
   background-repeat: no-repeat;
 
@@ -1950,7 +1950,7 @@ section.registar_main {
 
   padding-top: 40px;
 
-  background-image: url("/assets/images/registar.jpg");
+  background-image: url('/assets/images/registar.jpg');
 
   background-repeat: no-repeat;
 
@@ -2414,19 +2414,19 @@ footer.registar_footer .row > div:nth-child(2) p {
 
 .SPEAKERS_272 .row .speaker1 {
 
-  background-image: url("/assets/images/english1.png");
+  background-image: url('/assets/images/english1.png');
 
 }
 
 .SPEAKERS_272 .row .speaker2 {
 
-  background-image: url("/assets/images/english2.png");
+  background-image: url('/assets/images/english2.png');
 
 }
 
 .SPEAKERS_272 .row .speaker3 {
 
-  background-image: url("/assets/images/english3.png");
+  background-image: url('/assets/images/english3.png');
 
 }
 
@@ -2434,13 +2434,13 @@ footer.registar_footer .row > div:nth-child(2) p {
 
 .SPEAKERS_272 .row.second .speaker4 {
 
-  background-image: url("/assets/images/english4.png");
+  background-image: url('/assets/images/english4.png');
 
 }
 
 .SPEAKERS_272 .row.second .speaker5 {
 
-  background-image: url("/assets/images/english5.png");
+  background-image: url('/assets/images/english5.png');
 
 }
 
@@ -2456,43 +2456,43 @@ footer.registar_footer .row > div:nth-child(2) p {
 
 .SPEAKERS_272 .chinese_speaker1 {
 
-  background-image: url("/assets/images/chinese_speaker1.png");
+  background-image: url('/assets/images/chinese_speaker1.png');
 
 }
 
 .SPEAKERS_272 .chinese_speaker2 {
 
-  background-image: url("/assets/images/chinese_speaker2.png");
+  background-image: url('/assets/images/chinese_speaker2.png');
 
 }
 
 .SPEAKERS_272 .chinese_speaker3 {
 
-  background-image: url("/assets/images/chinese_speaker3.png");
+  background-image: url('/assets/images/chinese_speaker3.png');
 
 }
 
 .SPEAKERS_272 .chinese_speaker4 {
 
-  background-image: url("/assets/images/chinese_speaker4.png");
+  background-image: url('/assets/images/chinese_speaker4.png');
 
 }
 
 .SPEAKERS_272 .chinese_speaker5 {
 
-  background-image: url("/assets/images/chinese_speaker5.png");
+  background-image: url('/assets/images/chinese_speaker5.png');
 
 }
 
 .SPEAKERS_272 .chinese_speaker6 {
 
-  background-image: url("/assets/images/chinese_speaker6.png");
+  background-image: url('/assets/images/chinese_speaker6.png');
 
 }
 
 .SPEAKERS_272 .chinese_speaker7 {
 
-  background-image: url("/assets/images/chinese_speaker7.png");
+  background-image: url('/assets/images/chinese_speaker7.png');
 
 }
 
@@ -2680,13 +2680,13 @@ button#registerBtn {
 
 .faqSection .accordion-button.collapsed::after {
 
-  background-image: url("../images/down_arrow.png");
+  background-image: url('../images/down_arrow.png');
 
 }
 
 .faqSection .accordion-button:not(.collapsed)::after {
 
-  background-image: url("/assets/images/down_arrow_orange.png");
+  background-image: url('/assets/images/down_arrow_orange.png');
 
 }
 
